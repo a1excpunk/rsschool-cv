@@ -2,7 +2,8 @@
 _Front-end Developer, Based in Tbilisi, Georgia_
 
 
-## Contact Info :octocat:
+## Contact Info 
+:octocat:
 
 - Tel: `+995558348760`
 - [Mail](alexandrasauri19@gmail.com)
@@ -26,7 +27,7 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 - DevTools
 
 
-## Projects :woman_technologist:
+## Projects :rocket:
 
 * [Weather App](https://a1excpunk.github.io/weatherApp/) :sun_behind_small_cloud:
 * [Tarantino Page](https://a1excpunk.github.io/tribute-page/index.html) :knife: 
@@ -34,7 +35,7 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 * [Bike Repair](https://a1excpunk.github.io/bike-repairs/index.html) :bicyclist:
 
 
-## Experience
+## Experience :woman_technologist:
 
 
 ## Languages :speech_balloon:
@@ -43,7 +44,7 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 **English:** C1
 **Russian:** C1
  
- 
+
 ## Education :woman_student:
 
 **Bachelor's Degree** in Psychology
