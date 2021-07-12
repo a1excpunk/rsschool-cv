@@ -1,17 +1,16 @@
 # Aleksandra Sauri
-_Front-end Developer, Based in Tbilisi, Georgia_
+_Front-end Developer, Based in Tbilisi, Georgia_ 🌏
 
 
-## Contact Info 
-:octocat:
+## Contact Info 📱
 
 - Tel: `+995558348760`
-- [Mail](alexandrasauri19@gmail.com)
-- [LinkdIn](https://www.linkedin.com/in/alexandra-sauri-8273ba150/)
-- [GitHub](https://github.com/a1excpunk)
+- [Mail](alexandrasauri19@gmail.com) 📧
+- [LinkdIn](https://www.linkedin.com/in/alexandra-sauri-8273ba150/) 🔗
+- [GitHub](https://github.com/a1excpunk) :octocat:
 
 
-## Skills :muscle:
+## Skills 💪
  
 - HTML
 - CSS
@@ -27,25 +26,25 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 - DevTools
 
 
-## Projects :rocket:
+## Projects 🗂
 
-* [Weather App](https://a1excpunk.github.io/weatherApp/) :sun_behind_small_cloud:
-* [Tarantino Page](https://a1excpunk.github.io/tribute-page/index.html) :knife: 
-* [Adare Restaurant](https://a1excpunk.github.io/restourant/index.html) :green_salad:
-* [Bike Repair](https://a1excpunk.github.io/bike-repairs/index.html) :bicyclist:
-
-
-## Experience :woman_technologist:
+* [Weather App](https://a1excpunk.github.io/weatherApp/) ⛅
+* [Tarantino Page](https://a1excpunk.github.io/tribute-page/index.html) 🔪
+* [Adare Restaurant](https://a1excpunk.github.io/restourant/index.html) 🥗
+* [Bike Repair](https://a1excpunk.github.io/bike-repairs/index.html) 🚴
 
 
-## Languages :speech_balloon:
+## Experience 👩‍💻
 
-**Georgian:** Native
-**English:** C1
-**Russian:** C1
+
+## Languages 💬
+
+- **Georgian:** Native
+- **English:** C1
+- **Russian:** C1
  
 
-## Education :woman_student:
+## Education 👩‍🎓
 
 **Bachelor's Degree** in Psychology
 [Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (_2012 - 2016_)
