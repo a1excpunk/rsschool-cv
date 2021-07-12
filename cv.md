@@ -58,9 +58,10 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 
 <br>
 
-###### Code Snippets
+##### Code example from latest project
+ *creating, randomized, particles on canvas using ES6 classes*
 
-```
+```javascript
 class Particle {
     constructor() {
         this.x = mouse.x;
@@ -92,21 +93,17 @@ class Particle {
 - **English:** C1
 - **Russian:** C1
 
+
 ## Education
 
-**Bachelor's Degree** in Psychology
+- **Bachelor's Degree** in Psychology
 [Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (_2012 - 2016_)
 
-<br>
+- **6-week coding course** focused on front-end and JavasCript
+[New Horizons Computer Learning Centers](https://www.newhorizons.com/)
 
-
-**6-week coding course** focused on front-end and JavasCript
-[NEW HORIZONS COMPUTER LEARNING CENTERS](https://www.newhorizons.com/)
-<br>
-
-**Javascript Certificate:** fundamentals of web development using Javascript and the HTML DOM
+- **Javascript Certificate:** fundamentals of web development using Javascript and the HTML DOM
 [w3schools](https://certification.w3schools.com/w3certified.asp?id=12861192)
-<br>
 
-**6-week coding course** focused on JavasCript and DOM
+- **6-week coding course** focused on JavasCript and DOM
 [Academy Of Digital Industries](https://digitaledu.ge/)
