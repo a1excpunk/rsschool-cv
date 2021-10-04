@@ -4,7 +4,7 @@ _Front-end Developer, Based in Tbilisi, Georgia_
 
 ## Contact Info
 
-- Tel: `+995558348760`
+- Tel: `+995555123456`
 - [Mail](alexandrasauri19@gmail.com)
 - [LinkdIn](https://www.linkedin.com/in/alexandra-sauri-8273ba150/)
 - [GitHub](https://github.com/a1excpunk)
